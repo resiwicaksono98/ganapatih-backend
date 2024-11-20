@@ -17,3 +17,10 @@ Untuk menjalankan proyek ini, ikuti langkah-langkah berikut:
 4. Jalankan proyek dengan perintah:
 
    npm run start:dev
+
+
+ROUTE - Get Trips 
+http://localhost:3000/api/trips
+
+ROUTE - Get Monthly Trips For Diagram
+http://localhost:3000/api/trips/monthly-trips
